@@ -1,63 +1,14 @@
-
-results: [
+[
 {
-section: "style",
-subsection: "",
-title: "Ink Rx? Welcome to the World of Paramedical Tattoos",
-abstract: "Needles and pigments are helping medical patients heal emotionally.",
-url: "https://www.nytimes.com/2020/02/17/style/paramedical-tattoos.html",
-uri: "nyt://article/b24bc638-c927-5b1f-9fb1-75c74ebe4e81",
-
-multimedia: [
-{
-url: "https://static01.nyt.com/images/2020/02/13/fashion/13paramedicaltattoos1/merlin_167731203_23e19db9-eb08-44f7-92e3-591269deeb35-superJumbo.jpg",
-format: "superJumbo",
-height: 1363,
-width: 2048,
-type: "image",
-subtype: "photo",
-caption: "Eric Catalano, a tattoo artist in Illinois who specializes in paramedical tattoos. ",
-copyright: "Michael B. Thomas for Kaiser Health News"
+id: 1,
+title: "Post 1"
 },
 {
-url: "https://static01.nyt.com/images/2020/02/13/fashion/13paramedicaltattoos1/merlin_167731203_23e19db9-eb08-44f7-92e3-591269deeb35-thumbStandard.jpg",
-format: "Standard Thumbnail",
-height: 75,
-width: 75,
-type: "image",
-subtype: "photo",
-caption: "Eric Catalano, a tattoo artist in Illinois who specializes in paramedical tattoos. ",
-copyright: "Michael B. Thomas for Kaiser Health News"
+id: 2,
+title: "Post 2"
 },
 {
-url: "https://static01.nyt.com/images/2020/02/13/fashion/13paramedicaltattoos1/merlin_167731203_23e19db9-eb08-44f7-92e3-591269deeb35-thumbLarge.jpg",
-format: "thumbLarge",
-height: 150,
-width: 150,
-type: "image",
-subtype: "photo",
-caption: "Eric Catalano, a tattoo artist in Illinois who specializes in paramedical tattoos. ",
-copyright: "Michael B. Thomas for Kaiser Health News"
-},
-{
-url: "https://static01.nyt.com/images/2020/02/13/fashion/13paramedicaltattoos1/merlin_167731203_23e19db9-eb08-44f7-92e3-591269deeb35-mediumThreeByTwo210.jpg",
-format: "mediumThreeByTwo210",
-height: 140,
-width: 210,
-type: "image",
-subtype: "photo",
-caption: "Eric Catalano, a tattoo artist in Illinois who specializes in paramedical tattoos. ",
-copyright: "Michael B. Thomas for Kaiser Health News"
-},
-{
-url: "https://static01.nyt.com/images/2020/02/13/fashion/13paramedicaltattoos1/merlin_167731203_23e19db9-eb08-44f7-92e3-591269deeb35-articleInline.jpg",
-format: "Normal",
-height: 126,
-width: 190,
-type: "image",
-subtype: "photo",
-caption: "Eric Catalano, a tattoo artist in Illinois who specializes in paramedical tattoos. ",
-copyright: "Michael B. Thomas for Kaiser Health News"
+id: 3,
+title: "Post 3"
 }
-],
-}
+]
