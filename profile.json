@@ -1,18 +1,42 @@
 [
-    {
-        "title": "Note 1",
-        "text": "The content of note 1"
-        "job": "php"
-       
-    }, 
-    {
-        "title": "Note 2",
-        "text": "The content of note 2"
-         "job": "react"
-    },
-    {
-        "title": "Note 3",
-        "text": "The content of note 3"
-        "job": "flutter"
-    },
+{
+title: "Note 1",
+text: "The content of note 1",
+job: "webdeveloper",
+},
+{
+title: "Note 2",
+text: "The content of note 2",
+job : "php",
+},
+{
+title: "Note 3",
+text: "The content of note 3",
+job: "java",
+},
+{
+title: "Note 4",
+text: "The content of note 4",
+job : "flutter",
+},
+{
+title: "Note 5",
+text: "The content of note 5",
+job : "react",
+},
+{
+title: "Note 6",
+text: "The content of note 6",
+job : "dart",
+},
+{
+title: "Note 7",
+text: "The content of note 7",
+job: "django",
+},
+{
+title: "Note 8",
+text: "The content of note 8",
+job : "swift",
+}
 ]
