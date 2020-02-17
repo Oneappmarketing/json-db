@@ -7,25 +7,7 @@ title: "Ink Rx? Welcome to the World of Paramedical Tattoos",
 abstract: "Needles and pigments are helping medical patients heal emotionally.",
 url: "https://www.nytimes.com/2020/02/17/style/paramedical-tattoos.html",
 uri: "nyt://article/b24bc638-c927-5b1f-9fb1-75c74ebe4e81",
-byline: "By Cara Anthony",
-item_type: "Article",
-updated_date: "2020-02-17T05:00:15-05:00",
-created_date: "2020-02-17T05:00:15-05:00",
-published_date: "2020-02-17T05:00:15-05:00",
-material_type_facet: "",
-kicker: "",
-des_facet: [
-"Tattoos",
-"Art",
-"Surgery and Surgeons",
-"Plastic Surgery",
-"your-feed-selfcare"
-],
-org_facet: [
-"Kaiser Family Foundation"
-],
-per_facet: [ ],
-geo_facet: [ ],
+
 multimedia: [
 {
 url: "https://static01.nyt.com/images/2020/02/13/fashion/13paramedicaltattoos1/merlin_167731203_23e19db9-eb08-44f7-92e3-591269deeb35-superJumbo.jpg",
@@ -78,89 +60,4 @@ caption: "Eric Catalano, a tattoo artist in Illinois who specializes in paramedi
 copyright: "Michael B. Thomas for Kaiser Health News"
 }
 ],
-short_url: "https://nyti.ms/38zhPhF"
-},
-{
-section: "science",
-subsection: "",
-title: "What’s the World’s Worst Smell?",
-abstract: "Some odors are more heinous than others. Then there’s Stench Soup.",
-url: "https://www.nytimes.com/2020/02/17/science/worst-odor-smell-thioacetone.html",
-uri: "nyt://article/23668c3e-c559-5497-85f8-c450ba4d9e76",
-byline: "By Randall Munroe",
-item_type: "Article",
-updated_date: "2020-02-17T05:00:14-05:00",
-created_date: "2020-02-17T05:00:14-05:00",
-published_date: "2020-02-17T05:00:14-05:00",
-material_type_facet: "",
-kicker: "Good Question",
-des_facet: [
-"Smells and Odors",
-"Chemistry",
-"Smell (Olfaction)"
-],
-org_facet: [
-"Monell Chemical Senses Center"
-],
-per_facet: [
-"Roach, Mary",
-"Lowe, Derek",
-"Dalton, Pamela"
-],
-geo_facet: [ ],
-multimedia: [
-{
-url: "https://static01.nyt.com/images/2020/02/18/science/10SCI-MUNROE1/09SCI-MUNROE1-superJumbo.jpg",
-format: "superJumbo",
-height: 819,
-width: 1228,
-type: "image",
-subtype: "photo",
-caption: "",
-copyright: ""
-},
-{
-url: "https://static01.nyt.com/images/2020/02/18/science/10SCI-MUNROE1/09SCI-MUNROE1-thumbStandard.jpg",
-format: "Standard Thumbnail",
-height: 75,
-width: 75,
-type: "image",
-subtype: "photo",
-caption: "",
-copyright: ""
-},
-  
-{
-url: "https://static01.nyt.com/images/2020/02/18/science/10SCI-MUNROE1/09SCI-MUNROE1-thumbLarge.jpg",
-format: "thumbLarge",
-height: 150,
-width: 150,
-type: "image",
-subtype: "photo",
-caption: "",
-copyright: ""
-},
-{
-url: "https://static01.nyt.com/images/2020/02/18/science/10SCI-MUNROE1/09SCI-MUNROE1-mediumThreeByTwo210.jpg",
-format: "mediumThreeByTwo210",
-height: 140,
-width: 210,
-type: "image",
-subtype: "photo",
-caption: "",
-copyright: ""
-},
-{
-url: "https://static01.nyt.com/images/2020/02/18/science/10SCI-MUNROE1/09SCI-MUNROE1-articleInline.jpg",
-format: "Normal",
-height: 127,
-width: 190,
-type: "image",
-subtype: "photo",
-caption: "",
-copyright: ""
-}
-]
-
-]
 }
