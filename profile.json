@@ -2,17 +2,20 @@
     {
         "title": "Note 1",
         "text": "The content of note 1",
-        "job": "Php"
+        "job": "Php",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Profile_image_Nadia_Lim_chef_2014.jpg"
     },
     {
         "title": "Note 2",
         "text": "The content of note 2",
-        "job": "React"
+        "job": "React",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Profile_image_Nadia_Lim_chef_2014.jpg"
     },
     {
         "title": "Note 3",
         "text": "The content of note 3",
-        "job": "Flutter"
+        "job": "Flutter",
+        "image":"https://upload.wikimedia.org/wikipedia/en/2/2f/Profile_image_Nadia_Lim_chef_2014.jpg"
     }
   
 ]
