@@ -1,4 +1,16 @@
-[{"title":"Note 1","text":"The content of note 1","job":"webdeveloper"},
- {"title":"Note 3","text":"The content of note 3","job":"java"},
-
-];
+[
+    {
+        "title": "Note 1",
+        "text": "The content of note 1"
+        "job" : "php"
+    }, 
+    {
+        "title": "Note 2",
+        "text": "The content of note 2"
+        "job" : "react"
+    },
+    {
+        "title": "Note 3",
+        "text": "The content of note 3"
+        "job" : "Flutter"
+    },
