@@ -1,21 +1,21 @@
 [
     {
-        "title": "Note 1",
+        "title": "SARAH",
         "text": "The content of note 1",
         "job": "Php",
         "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Profile_image_Nadia_Lim_chef_2014.jpg"
     },
     {
-        "title": "Note 2",
+        "title": "JANET",
         "text": "The content of note 2",
         "job": "React",
-        "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Profile_image_Nadia_Lim_chef_2014.jpg"
+        "image": "https://tul.imgix.net/content/article/nadia-lim-pop-up.jpg?auto=format,compress&w=520&h=390&fit=crop"
     },
     {
-        "title": "Note 3",
+        "title": "LISA",
         "text": "The content of note 3",
         "job": "Flutter",
-        "image":"https://upload.wikimedia.org/wikipedia/en/2/2f/Profile_image_Nadia_Lim_chef_2014.jpg"
+        "image":"https://resources.stuff.co.nz/content/dam/images/1/c/f/l/n/x/image.related.StuffLandscapeThreeByTwo.1464x976.1cey6w.png/1466568783014.jpg"
     }
   
 ]
